@@ -6,5 +6,5 @@ AirBnb clone with Material UI, React JS and Firebase
 ```
 cd airbnb-clone
 npm install
-### `npm start`
+`npm start`
 ````
